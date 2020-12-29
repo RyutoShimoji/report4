@@ -3,7 +3,7 @@ package jp.ac.uryukyu.ie.e205755;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class HeroTest {
+public class WarriorTest {
     @Test
     void attackWithWeponSkill() {
         int defaultWarriorAttack = 100;

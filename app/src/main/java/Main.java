@@ -12,8 +12,7 @@ public class Main {
             turn++;
             System.out.printf("%dターン目開始！\n", turn);
             warrior.attackWithWeponSkill(enemy);
-            enemy.attack(warrior);
+            enemy.attack(warrior);    
         }
-        System.out.println("戦闘終了");
     }
 }
